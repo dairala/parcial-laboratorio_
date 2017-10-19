@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1508445125 source:c:\users\familia\desktop\televisores\televisores\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"contratacion.h"
+
+1508439233 c:\users\familia\desktop\televisores\televisores\validar.h
+
+1507839411 c:\users\familia\desktop\televisores\televisores\pantallas.h
+
+1508442946 c:\users\familia\desktop\televisores\televisores\contratacion.h
+
+1508442945 source:c:\users\familia\desktop\televisores\televisores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pantallas.h"
+	"contratacion.h"
+	"publicidad.h"
+
+1508440189 source:c:\users\familia\desktop\televisores\televisores\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1508440669 source:c:\users\familia\desktop\televisores\televisores\pantallas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+	"validar.h"
+
+1508440390 source:c:\users\familia\desktop\televisores\televisores\publicidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"pantallas.h"
+	"contratacion.h"
+
+1508286201 c:\users\familia\desktop\televisores\televisores\publicidad.h
+
